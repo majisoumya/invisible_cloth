@@ -1,7 +1,7 @@
 # invisible_cloth
 this is a fully python code.in which i made a invisible cloth by opencv 
 <br>
-authon : soumaydip maji
+author : soumaydip maji
 <br>
 from : barasat
 <br>
